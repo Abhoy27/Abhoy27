@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhoykumarmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhoykumarmondal" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/667857b84d69a30e35ad4e70/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/667857b84d69a30e35ad4e70/dashboard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhoykumarmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhoykumarmondal" height="30" width="40" /></a>
+<a href="https://hashnode.com/@abhoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abhoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

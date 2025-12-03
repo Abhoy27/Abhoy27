@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhoy Kumar Mondal</h1>
-<h3 align="center">A passionate Cloud DevOps Engineer from India</h3>
+<h3 align="center">A passionate Cloud DevOps Engineer</h3>
 
 - 📝 I regularly write articles on [https://hashnode.com/667857b84d69a30e35ad4e70/dashboard](https://hashnode.com/667857b84d69a30e35ad4e70/dashboard)
 

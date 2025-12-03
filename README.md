@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhoy Kumar Mondal</h1>
-<h3 align="center">A passionate aspiring DevOps Engineer from India</h3>
-
-- 🌱 I’m currently learning **DevOps tools**
+<h3 align="center">A passionate Cloud DevOps Engineer from India</h3>
 
 - 📝 I regularly write articles on [https://hashnode.com/667857b84d69a30e35ad4e70/dashboard](https://hashnode.com/667857b84d69a30e35ad4e70/dashboard)
 
-- 💬 Ask me about **Linux, Jenkins, Terraform, Docker, Kubernetes**
+- 💬 Ask me about **AWS, Docker, Kubernetes, Linux, Jenkins, Terraform **
 
 - 📫 How to reach me **workwithabhoy@gmail.com**
 
